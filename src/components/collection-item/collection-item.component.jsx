@@ -1,4 +1,4 @@
-import './collection-item.styless.scss';
+import './collection-item.styles.scss';
 
 const CollecttionItem = ({ id, name, price, imageUrl }) => (
 	<div className="collection-item">
